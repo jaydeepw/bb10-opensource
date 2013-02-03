@@ -24,3 +24,6 @@
 
 # Added by JW
 .directory
+
+html5-packaged-app/arm/*
+html5-packaged-app/x86/*
